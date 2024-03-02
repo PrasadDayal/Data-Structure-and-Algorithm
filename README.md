@@ -1,27 +1,52 @@
-<h1 align="center">Hi 👋, I'm Prasad Dayal</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+# Set Operations and Hash Table Implementations
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasaddayal&label=Profile%20views&color=0e75b6&style=flat" alt="prasaddayal" /> </p>
+## Set Operations
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasaddayal" alt="prasaddayal" /></a> </p>
+### Overview
 
-- 🔭 I’m currently pursing **BE in Computer from Savitribai Phule Pune Unversity**
+The Set Operations project allows users to perform various operations on sets using Java. It provides functionalities such as adding and deleting elements from sets, displaying elements, searching for elements, determining set sizes, and performing set operations like union, intersection, difference, and subset checks.
 
-- 👯 I’m looking to collaborate on **Full Stack Java Stack**
+### Functionality
 
-- 💬 Ask me about **Java, Python, React, HTML**
+- **Add Element**: Add elements to Set A or Set B.
+- **Delete Element**: Remove elements from Set A or Set B.
+- **Display Elements**: Display the elements in Set A or Set B.
+- **Search Element**: Search for an element in Set A or Set B.
+- **Size of Set**: Retrieve the size of Set A or Set B.
+- **Union**: Compute the union of Set A and Set B.
+- **Intersection**: Compute the intersection of Set A and Set B.
+- **Difference**: Compute the difference between Set A and Set B.
+- **Subset Check**: Determine if Set A is a subset of Set B.
 
-- 📫 How to reach me **prasaddayal71234@gmail.com**
+### Usage
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+1. Compile the Java file using `javac SetOperation.java`.
+2. Run the compiled Java program using `java SetOperation`.
+3. Follow the menu-driven interface to perform various set operations.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Hash Table Implementation
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasaddayal&show_icons=true&locale=en&layout=compact" alt="prasaddayal" /></p>
+### Overview
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasaddayal&show_icons=true&locale=en" alt="prasaddayal" /></p>
+The Hash Table Implementation project provides a basic hash table implementation in Java. It supports functionalities such as insertion, display, and searching of mobile numbers in the hash table. It also implements collision resolution techniques like linear probing and quadratic probing.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasaddayal&" alt="prasaddayal" /></p>
+### Functionality
+
+- **Insertion**: Insert mobile numbers into the hash table.
+- **Display**: Display the contents of the hash table.
+- **Search**: Search for mobile numbers in the hash table.
+- **Collision Resolution**: Implement collision resolution using linear probing or quadratic probing.
+
+### Usage
+
+1. Compile the Java file using `javac Main.java`.
+2. Run the compiled Java program using `java Main`.
+3. Choose options from the menu to insert, display, or search mobile numbers in the hash table.
+
+## Contributors
+
+- These projects were developed by [Your Name].
+
+## License
+
+These projects are licensed under the [MIT License](LICENSE).

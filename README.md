@@ -2,51 +2,21 @@
 
 ## Set Operations
 
-### Overview
-
-The Set Operations project allows users to perform various operations on sets using Java. It provides functionalities such as adding and deleting elements from sets, displaying elements, searching for elements, determining set sizes, and performing set operations like union, intersection, difference, and subset checks.
-
-### Functionality
-
-- **Add Element**: Add elements to Set A or Set B.
-- **Delete Element**: Remove elements from Set A or Set B.
-- **Display Elements**: Display the elements in Set A or Set B.
-- **Search Element**: Search for an element in Set A or Set B.
-- **Size of Set**: Retrieve the size of Set A or Set B.
-- **Union**: Compute the union of Set A and Set B.
-- **Intersection**: Compute the intersection of Set A and Set B.
-- **Difference**: Compute the difference between Set A and Set B.
-- **Subset Check**: Determine if Set A is a subset of Set B.
-
-### Usage
-
-1. Compile the Java file using `javac SetOperation.java`.
-2. Run the compiled Java program using `java SetOperation`.
-3. Follow the menu-driven interface to perform various set operations.
+Allows users to manipulate sets, including adding, deleting, displaying elements, and performing set operations like union, intersection, and difference.
 
 ## Hash Table Implementation
 
-### Overview
+Provides a basic hash table with functionalities such as insertion, display, and searching of mobile numbers. Implements collision resolution techniques like linear probing and quadratic probing.
 
-The Hash Table Implementation project provides a basic hash table implementation in Java. It supports functionalities such as insertion, display, and searching of mobile numbers in the hash table. It also implements collision resolution techniques like linear probing and quadratic probing.
+## Usage
 
-### Functionality
-
-- **Insertion**: Insert mobile numbers into the hash table.
-- **Display**: Display the contents of the hash table.
-- **Search**: Search for mobile numbers in the hash table.
-- **Collision Resolution**: Implement collision resolution using linear probing or quadratic probing.
-
-### Usage
-
-1. Compile the Java file using `javac Main.java`.
-2. Run the compiled Java program using `java Main`.
-3. Choose options from the menu to insert, display, or search mobile numbers in the hash table.
+1. Compile and run the Java files.
+2. Follow the menu-driven interface for set operations or hash table functionalities.
 
 ## Contributors
 
-- These projects were developed by [Your Name].
+Developed by [Prasad Dayal]
 
 ## License
 
-These projects are licensed under the [MIT License](LICENSE).
+MIT License

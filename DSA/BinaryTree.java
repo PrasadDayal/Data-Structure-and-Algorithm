@@ -183,7 +183,7 @@ class Main {
             System.out.println("7. Inorder traversal");
             System.out.println("8. Preorder traversal");
             System.out.println("9. Postorder traversal");
-            System.out.println("0. Exit");
+            System.out.println("10. Exit");
 
             System.out.print("Enter your choice: ");
             choice = scanner.nextInt();
@@ -235,7 +235,7 @@ class Main {
                     System.out.print("Postorder traversal: ");
                     tree.postorder();
                     break;
-                case 0:
+                case 10:
                     System.out.println("Exiting the program. Goodbye!");
                     break;
                 default:

@@ -35,11 +35,6 @@ Allows users to manipulate sets, including adding, deleting, displaying elements
 - **Difference**: Compute the difference between Set A and Set B.
 - **Subset Check**: Determine if Set A is a subset of Set B.
 
-## Usage
-
-1. Compile the Java file using `javac SetOperation.java`.
-2. Run the compiled Java program using `java SetOperation`.
-3. Follow the menu-driven interface to perform various set operations.
 
 # Binary Search Tree Operations
 
@@ -50,12 +45,7 @@ This Java program implements various operations on a binary search tree (BST). I
 
 Briefly describe what the program does and its main features.
 
-## How to Use
-
-1. **Compile**: Compile the Java source code using `javac Main.java`.
-2. **Run**: Run the compiled program using `java Main`.
-
-## Operations
+## Functionality
 
 1. **Create a tree by level**: Allows users to construct a binary search tree by level.
 2. **Insert new nodes using array**: Inserts new nodes into the BST using an array.
@@ -68,11 +58,6 @@ Briefly describe what the program does and its main features.
 9. **Postorder traversal**: Performs a postorder traversal of the BST.
 10. **Exit**: Exits the program.
 
-## Usage
-
-1. Compile the Java file using `javac BinaryTree.java`.
-2. Run the compiled Java program using `java BinaryTree`.
-3. Follow the menu-driven interface to perform the operation for Binary Search Tree.
 
 ## Contributors
 

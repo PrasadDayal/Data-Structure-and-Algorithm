@@ -38,18 +38,4 @@ To use the Threaded Binary Tree Operations program:
 2. Run the `Threaded` class.
 3. Follow the on-screen instructions to create a threaded binary tree and display it using inorder or preorder traversal.
 
-## License
 
-[Specify the license under which the source code is distributed, e.g., MIT License, Apache License, etc.]
-
-## Contributions
-
-[Include instructions for contributing to the project, if applicable.]
-
-## Authors
-
-[List the authors or contributors of the programs.]
-
-## Acknowledgements
-
-[If you received help or inspiration from other sources, acknowledge them here.]
